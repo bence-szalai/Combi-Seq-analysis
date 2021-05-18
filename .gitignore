@@ -1,0 +1,9 @@
+
+code/__pycache__/preprocess.cpython-37.pyc
+code/__pycache__/qc.cpython-37.pyc
+!results/hgnc_symbol.csv
+*.txt
+*.tab
+*.pages
+*.xlsx
+*.pdf
