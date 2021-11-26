@@ -8,3 +8,8 @@ code/__pycache__/qc.cpython-37.pyc
 *.xlsx
 *.pdf
 *.png
+*.fa
+*.gtf
+*.gz
+*.json
+*.idx
