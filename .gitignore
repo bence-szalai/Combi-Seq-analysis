@@ -13,3 +13,6 @@ code/__pycache__/qc.cpython-37.pyc
 *.gz
 *.json
 *.idx
+*.bam
+*.bai
+*.out
